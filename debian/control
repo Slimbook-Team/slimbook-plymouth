@@ -1,0 +1,14 @@
+Source: slimbook-plymouth
+Section: libs
+Priority: optional
+Maintainer: Slimbook <dev@slimbook.es>
+Build-Depends: debhelper (>=9)
+Standards-Version: 3.9.7
+Homepage: https://github.com/Slimbook-Team/slimbook-plymouth
+
+Package: slimbook-plymouth-theme
+Architecture: amd64
+Depends: ${shlibs:Depends}, ${misc:Depends}, plymouth-theme-spinner
+Description: Slimbook Plymouth theme
+ Plymouth theme with Slimbook logo
+
