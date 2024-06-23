@@ -1,0 +1,11 @@
+[Plymouth Theme]
+Name=Slimbook Text
+Description=Text mode theme for Slimbook OS
+ModuleName=ubuntu-text
+
+[ubuntu-text]
+title=SlimbookOS 24
+black=0x000000
+white=0xffffff
+brown=0xffe737
+blue=0x0074a7
