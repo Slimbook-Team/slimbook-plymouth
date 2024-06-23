@@ -1,3 +1,9 @@
+slimbook-plymouth (24.1.0) noble; urgency=medium
+
+  * Added a text theme
+
+ -- Slimbook <dev@slimbook.es>  Sun, 23 Jun 2024 23:31:52 +0200
+
 slimbook-plymouth (24.0.0) noble; urgency=medium
 
   * Initial release.
